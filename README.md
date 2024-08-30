@@ -1,2 +1,2 @@
 # routesent
-Find, create, and share spray wall routes with other climbers in just a few clicks.
+Find, create, and share routes made from your wall with other climbers in just a few clicks.
